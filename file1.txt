@@ -1,0 +1,1 @@
+Python was developed by Guido van Rossum and was released first on February 20, 1991. It is one of the most widely used and loved programming languages and is interpreted in nature thereby providing flexibility in incorporating dynamic semantics.
